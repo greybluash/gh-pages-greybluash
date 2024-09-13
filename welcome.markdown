@@ -1,6 +1,7 @@
 ---
 layout: page
 # title: Welcome
+exclude: true
 permalink: /welcome/
 ---
 
